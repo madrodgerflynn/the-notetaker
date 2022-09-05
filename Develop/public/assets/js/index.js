@@ -32,6 +32,7 @@ const getNotes = () =>
       "Content-Type": "application/json",
     },
   })
+    // Added this section
     .then((res) => res.json())
     .then((data) => console.log(data));
 
