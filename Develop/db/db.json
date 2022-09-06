@@ -1,6 +1,22 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Notes",
+        "text": "FUbar",
+        "id": "948e"
+    },
+    {
+        "title": "This is a cool note!",
+        "text": "Word",
+        "id": "e441"
+    },
+    {
+        "title": "Fancypants",
+        "text": "Hey there fancypants play the songs that make us dance",
+        "id": "e413"
+    },
+    {
+        "title": "Delete Button",
+        "text": "The Delete button does not work yet...",
+        "id": "11b3"
     }
 ]
